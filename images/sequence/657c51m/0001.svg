@@ -1,0 +1,6 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-label="Sequence 01">
+  <rect width="1920" height="1080" fill="#0f6ab2"/>
+  <rect x="90" y="90" width="1740" height="900" rx="52" fill="rgba(0,0,0,0.18)" stroke="rgba(255,255,255,0.32)" stroke-width="4"/>
+  <text x="960" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="84" font-weight="700" fill="#ffffff">DN Portfolio</text>
+  <text x="960" y="620" text-anchor="middle" font-family="Arial, sans-serif" font-size="44" font-weight="500" fill="#ffffff">Sequence 01</text>
+</svg>
